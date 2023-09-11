@@ -1,0 +1,24 @@
+/config/config.env
+# dependencies
+/node_modules
+/clints/node_modules
+/clints/.pnp
+/clints/.pnp.js
+
+# testing
+/clints/coverage
+
+# production
+/clints/build
+
+# misc
+/backend/config/config.env
+/clints/.DS_Store
+/clints/.env.local
+/clints/.env.development.local
+/clints/.env.test.local
+/clints/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

@@ -34,6 +34,6 @@ CLOUDINARY_API_SECRET
 _fill each filed with your info respectively_
 
 ## Author
- **Sonu Kumar**
+ **Sonu Kumar @gnoin.com**
 **Portfolio** Click [Here](https://sonu1994roy.github.io/sonumyportfolio.github.io/?fbclid=PAAaZTmHe0nsDtcHPx-7pp3_wvoXZ9dgKJKIXlnsXXe2_aEI5KFyLU0_2jMDo) **@Sonu Kumar**
 
